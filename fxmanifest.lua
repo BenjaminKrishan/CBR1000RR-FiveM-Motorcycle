@@ -3,8 +3,7 @@ game 'gta5'
 author 'Benjamin Krishan'
 description 'BenX Development CBR 1000RR Unbranded Bike © 2026'
 version '1.0.0'
-repository 'www.benx.tebex.io/cbr1000rrunbranded'
-documentation 'www.benx.gitbook.io/cbr1000rrunbranded'
+repository 'https://github.com/BenjaminKrishan/CBR1000RR-FiveM-Motorcycle'
 discord 'https://discord.gg/5vH5qq6RSV'
 
 files {
